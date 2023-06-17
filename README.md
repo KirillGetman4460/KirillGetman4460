@@ -40,6 +40,10 @@
 ![Webpack](https://img.shields.io/badge/Webpack-003772?style=for-the-badge&logo=Webpack)
 ![Docker](https://img.shields.io/badge/Docker-003772?style=for-the-badge&logo=Docker)
 
+### Languages:
+![English](https://img.shields.io/badge/English (elementary)-003772?style=for-the-badge&logo=English)
+![Ukrainian](https://img.shields.io/badge/Ukrainian (advanced)-003772?style=for-the-badge&logo=Russian)
+![Russian](https://img.shields.io/badge/Russian (native)-003772?style=for-the-badge&logo=Russian)
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KirillGetman4460&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
