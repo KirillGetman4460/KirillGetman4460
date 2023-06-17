@@ -45,6 +45,10 @@
 ![Ukrainian](https://img.shields.io/badge/Ukrainian (advanced)-003772?style=for-the-badge&logo=Russian)
 ![Russian](https://img.shields.io/badge/Russian (native)-003772?style=for-the-badge&logo=Russian)
 
+### Contacts:
+
+[![Telegram](https://img.shields.io/badge/Telegram-003772?style=for-the-badge&logo=Telegram)](https://t.me/kirill_getman)
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KirillGetman4460&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
