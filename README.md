@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">A passionate fullstack developer from Ukraine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=filicaliva&label=Profile%20views&color=0e75b6&style=flat" alt="filicaliva" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KirillGetman4460=Profile%20views&color=0e75b6&style=flat" alt="filicaliva" /> </p>
 
 - 💬 Ask me about **js, react, react-native**
 
