@@ -23,7 +23,6 @@
 ![ReactNative](https://img.shields.io/badge/ReactNative-003772?style=for-the-badge&logo=ReactNative)
 ![NextJS](https://img.shields.io/badge/NextJS-003772?style=for-the-badge&logo=NextJS)
 ![Redux](https://img.shields.io/badge/Redux-003772?style=for-the-badge&logo=Redux&logoColor=593D88)
-![MobX](https://img.shields.io/badge/MobX-003772?style=for-the-badge&logo=MobX)
 ![Jest](https://img.shields.io/badge/Jest-003772?style=for-the-badge&logo=Jest)
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-003772?style=for-the-badge&logo=nodejs)
@@ -40,7 +39,6 @@
 
 ![Gulp](https://img.shields.io/badge/Gulp-003772?style=for-the-badge&logo=Gulp)
 ![Webpack](https://img.shields.io/badge/Webpack-003772?style=for-the-badge&logo=Webpack)
-![Electron](https://img.shields.io/badge/Electron-003772?style=for-the-badge&logo=Electron)
 ![Docker](https://img.shields.io/badge/Docker-003772?style=for-the-badge&logo=Docker)
 
 
